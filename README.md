@@ -25,7 +25,7 @@ The **Simple Calendar** is a simple and intuitive React-based calendar applicati
 
 3. **Install dependencies**:
 
-  npm install
+    npm install
 
 
 4. **Run the development server**:
